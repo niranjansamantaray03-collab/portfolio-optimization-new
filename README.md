@@ -26,7 +26,7 @@ This project builds a portfolio optimization model using Python to maximize retu
 
 ## 📊 Output
 (Add your Efficient Frontier graph here)
-![Efficient Frontier](results/efficient_frontier.png)
+![Efficient Frontier](results/optimizationportfolio.png)
 - Achieved improved risk-adjusted returns compared to equal-weight portfolio
 
 ## 📊 Analysis & Insights
