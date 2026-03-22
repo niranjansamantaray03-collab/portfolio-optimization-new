@@ -27,5 +27,8 @@ This project builds a portfolio optimization model using Python to maximize retu
 ## 📊 Output
 (Add your Efficient Frontier graph here)
 
-## ▶️ How to Run
-1. Install dependencies:
+## 📊 Analysis & Insights
+
+- The optimized portfolio assigns higher weights to low-volatility assets
+- Diversification significantly reduces overall portfolio risk
+- The model achieves superior Sharpe Ratio compared to equal-weight allocation
